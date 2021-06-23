@@ -1,0 +1,25 @@
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {}
+
+@media only screen and (max-width: 767px) {
+   
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px){
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+	.banner_content h1{
+	font-size: 50px;
+	color:#fff;
+	padding:0px 90px;
+	border-bottom: 1px solid #15a4fa;
+	display: inline-block;
+	font-weight: 700;
+}
+
+}
